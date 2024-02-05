@@ -16,6 +16,7 @@ services:
     ports:
       - 80:80
       - 443:443 # for future ssl traffic
+    
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
     ports:
