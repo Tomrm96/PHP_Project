@@ -9,7 +9,7 @@ $routes = [
 
     '/' => 'controllers/index.php',
     '/about' => 'controllers/about.php',
-    '/help' => 'controllers/help.me.php',
+    '/help' => 'controllers/help.php',
     
 ];
 
